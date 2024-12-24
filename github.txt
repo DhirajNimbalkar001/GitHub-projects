@@ -8,3 +8,5 @@
 8) git branch: List, create, or delete branches.
 9) git merge: Merge branches.
 10) git log: View the commit history.
+
+11) git remote -v 
